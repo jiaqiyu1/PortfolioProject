@@ -31,7 +31,7 @@ Power BI, DAX, Microsoft Excel, SQL
 
 
 ### 💡 Dashboard 
-Please [click here](https://app.powerbi.com/view?r=eyJrIjoiNTQ3ZTdkZWEtMGUwOS00N2E0LWEzNzMtOTU5MjQzYmI5NTk3IiwidCI6ImNiOTAzNDgyLWU1MGYtNDlkNC1hMDlhLTFiYTIzMjc1MTFhNiJ9&pageName=ReportSectiond2f66cc89492c35debcd) to see the interactive dashboard !
+### 👉 Please [click here](https://app.powerbi.com/view?r=eyJrIjoiNTQ3ZTdkZWEtMGUwOS00N2E0LWEzNzMtOTU5MjQzYmI5NTk3IiwidCI6ImNiOTAzNDgyLWU1MGYtNDlkNC1hMDlhLTFiYTIzMjc1MTFhNiJ9&pageName=ReportSectiond2f66cc89492c35debcd) to see the interactive dashboard ! 👈
 
 ![image](https://github.com/jiaqiyu1/PortfolioProject/assets/84236678/75ef455a-2d1f-445a-8c7b-062036ba04e7)
 
