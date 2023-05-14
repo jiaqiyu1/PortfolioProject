@@ -39,9 +39,11 @@ This project will use two types of data:
 ### :point_right: SQL: 
 please [click here](https://github.com/jiaqiyu1/Property_Analysis/tree/main/SQL) 
    * Data exploration: SQL queries based on specific business requirements
+### :point_right: SSIS:
+please [click here](https://github.com/jiaqiyu1/Property_Analysis/tree/main/SQL) 
+   * Data exrtraction,transformation and loading: SSIS ELT package 
 ### :point_right: Power BI
 please [click here](https://github.com/jiaqiyu1/Property_Analysis/tree/main/Power%20BI) 
-   * SSIS ELT package 
    * Data warehouse design diagram (star schema) 
    * Data warehouse design script(schema+queries) 
    * Dashboard
