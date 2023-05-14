@@ -16,7 +16,7 @@ SELECT
 	total_cases,
 	new_cases,
 	total_deaths,
-	population,
+	population
 
 FROM PortfolioProject..CovidDeaths
 WHERE continent IS NOT NULL
@@ -24,6 +24,7 @@ ORDER BY 1,2
 
 
 --Total Cases vs Total Deaths 
+  -- likehood of dying if you got covid in the selected country 
 SELECT 
 	location,
 	date,
@@ -32,12 +33,8 @@ SELECT
 	(total_deaths/total_cases)*100 AS DeathPercentage
 
 FROM PortfolioProject..CovidDeaths
---WHERE location ='China' AND continent IS NOT NULL
-WHERE continent IS NOT NULL
-
-ORDER BY DeathPercentage DESC
-
-
+WHERE location ='China' AND continent IS NOT NULL
+ORDER BY date DESC, DeathPercentage DESC
 
 
 --Total Cases vs Population
@@ -63,7 +60,7 @@ SELECT
 
 FROM PortfolioProject..CovidDeaths
 WHERE continent IS NOT NULL
-GROUP BY location,population
+GROUP BY location, population
 ORDER BY PercentagePopulationInfected DESC
 
 
@@ -77,6 +74,16 @@ GROUP BY location
 ORDER BY TotalDeathCount DESC
 
 -- Break things down into Continent 
+SELECT 
+	continent,
+	MAX(CAST(total_deaths AS INT)) AS TotalDeathCount
+FROM PortfolioProject..CovidDeaths
+WHERE continent IS NOT NULL
+GROUP BY continent
+ORDER BY TotalDeathCount DESC
+
+
+-- Continents  with highest deaths count per population 
 SELECT 
 	continent,
 	MAX(CAST(total_deaths AS INT)) AS TotalDeathCount
@@ -175,6 +182,5 @@ LEFT JOIN [dbo].[CovidVaccinations] Vacc
 	ON Deaths.location = Vacc.location
 		AND Deaths.date = Vacc.date
 WHERE Deaths.continent IS NOT NULL
-
 
 
