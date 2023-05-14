@@ -10,6 +10,21 @@
 
 A product analysis report to the marketing management team and help them to understand their market performance across different markets, top-performing and bottom-performing products, sales trend and the main driver for revenue growth. And,I also made an exchange rate conversion tool to facilitate users in different countries to clearly understand market performance in their local currency (The corporate currency is DKK).
 
+### Skills: 
+Power BI, DAX, Microsoft Excel, SQL
+
+### Solution Delivery:
+* Step 1: Case Analysis (4W+1H)
+   - Who needs to see the sales dashboard?  -> Target audience group(s), such as sales team and executives.
+   - What are the key metrics? -> facts 
+   -When does the team want to see it?  -> The frequency (daily/weekly/ monthly/ quarterly/ yearly reports? ) 
+   - Where does the team want to see it?  -> Desktop, or mobile device 
+   - How they want to see it (e.g. by product /by time / by location) -> dimension/attributes 
+* Step 2: Design the Logical Model
+  - Create a star schema to display the relationships between dimensions and facts.
+* Step 3: Create a bus matrix (Facts vs Dimensions). 
+* Step 4: Analyse the dashboard and provide critical insights in a storytelling manner.
+
 ### Star Schema Dimensional Modelling 
 
 ![image](https://github.com/jiaqiyu1/PortfolioProject/assets/84236678/dd8a3f3d-2fb5-4190-a0de-6b1bc8853121)
