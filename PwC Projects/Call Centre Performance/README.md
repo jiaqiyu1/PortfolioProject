@@ -1,3 +1,9 @@
+[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/jiaqiyu1)
+[![View Repositories](https://img.shields.io/badge/View-My_Portfolio-red?logo=GitHub)](https://github.com/jiaqiyu1/Portfolio_Guide)
+[![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/jiaqiyu1?tab=repositories)
+
+
+
 ![pwc logo](https://github.com/jiaqiyu1/PortfolioProject/assets/84236678/db5f6928-8006-448d-a8ff-70c836495bfc)
 # Call Centre Trends 
 
