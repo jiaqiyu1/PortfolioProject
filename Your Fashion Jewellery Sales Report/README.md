@@ -14,6 +14,7 @@ A product analysis report to the marketing management team and help them to unde
 Power BI, DAX, Microsoft Excel, SQL
 
 ### 💡 Solution Delivery:
+
 * Step 1: Case Analysis (4W+1H)
    - Who needs to see the sales dashboard?  -> Target audience group(s), such as sales team and executives.
    - What are the key metrics? -> facts 
@@ -25,19 +26,31 @@ Power BI, DAX, Microsoft Excel, SQL
 * Step 3: Create a bus matrix (Facts vs Dimensions). 
 * Step 4: Analyse the dashboard and provide critical insights in a storytelling manner.
 
-### 💡 Star Schema Dimensional Modelling 
+![image](https://github.com/jiaqiyu1/PortfolioProject/assets/84236678/dd3dc468-b56e-4bc5-b2b8-0728d71d6240)
 
-![image](https://github.com/jiaqiyu1/PortfolioProject/assets/84236678/dd8a3f3d-2fb5-4190-a0de-6b1bc8853121)
+
+### 💡 Bus matrix  & Star Schema Dimensional Modelling 
+
+draw bus matrix
+![image](https://github.com/jiaqiyu1/PortfolioProject/assets/84236678/b5db4bdc-327f-484e-848b-278d880bc73e)
+
+star schema modelling
+![image](https://github.com/jiaqiyu1/PortfolioProject/assets/84236678/ff61bf75-672a-4d99-8b66-24495de88a37)
+
 
 
 ### 💡 Dashboard 
-### 👉 Please [click here](https://app.powerbi.com/view?r=eyJrIjoiNTQ3ZTdkZWEtMGUwOS00N2E0LWEzNzMtOTU5MjQzYmI5NTk3IiwidCI6ImNiOTAzNDgyLWU1MGYtNDlkNC1hMDlhLTFiYTIzMjc1MTFhNiJ9&pageName=ReportSectiond2f66cc89492c35debcd) to see the interactive dashboard ! 👈
+Please [click here](https://app.powerbi.com/view?r=eyJrIjoiNTQ3ZTdkZWEtMGUwOS00N2E0LWEzNzMtOTU5MjQzYmI5NTk3IiwidCI6ImNiOTAzNDgyLWU1MGYtNDlkNC1hMDlhLTFiYTIzMjc1MTFhNiJ9&pageName=ReportSectiond2f66cc89492c35debcd) to see the interactive dashboard !
 
-![image](https://github.com/jiaqiyu1/PortfolioProject/assets/84236678/75ef455a-2d1f-445a-8c7b-062036ba04e7)
 
-![image](https://github.com/jiaqiyu1/PortfolioProject/assets/84236678/6f1feb57-dacd-4ec4-92fa-7040725066f4)
+### 💡 Businss Insights 
+* Australia has the highest sales amount in all markets, especially for Business Line 25 and 26, which has the higher sales quantity as well. 
+* Charms are the most popular category according to the data, in which Product 84 is the best seller in terms of sales amount. 
+* Compared to the Year 2019, year over year growth rate is 9.4%, which is higher than that of last year. 
 
-![image](https://github.com/jiaqiyu1/PortfolioProject/assets/84236678/b67863a0-0442-4a89-91d7-ba34ac31ecc9)
+
+### 💡 Sharing - Power BI Development Life Cycle
+![image](https://github.com/jiaqiyu1/PortfolioProject/assets/84236678/e7c6613c-839a-43bd-bfee-81461d85ebef)
 
 
 
