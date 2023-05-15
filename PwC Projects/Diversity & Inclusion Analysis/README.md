@@ -7,18 +7,18 @@
 
 # Diversity and Inclusion Analysis 
 
-### Project Overview & Business Problem
+### 💡 Project Overview & Business Problem
 
 * Client Name: Telecom Group
 * Business problem: 
 The telecom client is facing a challenge with improving gender balance at the executive management level despite their efforts to promote diversity and inclusion. They have approached PwC Switzerland for assistance in overcoming the practical challenges of achieving diversity and inclusion in the workplace, which are seen as essential for business success.
 
-### Tasks
+### 💡 Tasks
 As the data analyst/business intelligence analyst, I was assigned to carry out analysis of the client data, have been asked to:
 * Define relevant KPIs in hiring, promotion, performance, and turnover, and create a visualization.
 * Make recommendations to the organization, based on the insight generated from the data.
 
-### KPIs
+### 💡 KPIs
 
 After understanding the client’s problem and need, the following KPIs were formulated;
 
@@ -31,4 +31,8 @@ After understanding the client’s problem and need, the following KPIs were for
 - Turnover percentage
 - Average performance rating for men and women.
 
-### Solution
+### 💡 Solutions
+**Please [click here](https://app.powerbi.com/view?r=eyJrIjoiMmU5Zjc1OGYtYThlZi00MGQ5LWE2NDUtYzkyNWRkODljMzJjIiwidCI6ImNiOTAzNDgyLWU1MGYtNDlkNC1hMDlhLTFiYTIzMjc1MTFhNiJ9&pageName=ReportSection) to see my interactive dashboard !**
+
+![pwc_diveristy inclusion](https://github.com/jiaqiyu1/PortfolioProject/assets/84236678/30f3e018-458a-498d-97b2-05a476a00df1)
+
