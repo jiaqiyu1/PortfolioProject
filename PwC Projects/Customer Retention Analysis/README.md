@@ -6,4 +6,30 @@
 
 # Customer Retention Analysis
 
+### 💡 Business Requirements
+A few weeks after presenting your dashboard to the management, the Retention Manager from the telecom  was impressed by my work and asked if I can put together a dashboard about customer retention.
+
+In addition, to better understand the data, the telecom Retention Manager has scheduled a meeting with the engagement partner at PwC to cover these points:
+
+* Customers in the telecom industry are hard-earned: we don’t want to lose them
+* The retention department is here to get customers back in case of termination 
+* Currently, we get in touch after they have terminated the contract, but this is reactionary: it would be better to know in advance who is at risk 
+* We  have done customer analysis with Excel: it has always ended in a dead-end
+* We would like to know more about our customers: visualised clearly so that it’s self-explanatory for our management
+
+### 💡 Objectives
+In order to find out the reason why there is a reduction in revenue there is a need to find out if customers are still interested in the service rendered, are the customers churning if they are then there is a need to find out why and take necessary steps to correct it.
+
+This is the essence of this analysis, I checked for the trend on how people are leaving our product for other products, why they are doing so to give recommendations on how to improve our customer retention.
+
+### 💡 KPIs used for this analysis
+* Customers who left within the last month
+* Services: each customer has signed up for: phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies.
+* Customer account information: how long as a customer(tenure), contract, payment method, paperless billing, monthly charges, total charges, and a number of tickets opened in the categories administrative and technical.
+* Demographic info about customers – gender, age range, and if they have partners and dependents.
+
+### 💡 Solutions
+**Please [click here](https://app.powerbi.com/view?r=eyJrIjoiMzZhMTc3ODUtYzBmMi00ZDg4LWFhOTYtZDdiMzBmMDM1YTJmIiwidCI6ImNiOTAzNDgyLWU1MGYtNDlkNC1hMDlhLTFiYTIzMjc1MTFhNiJ9&pageName=ReportSection331a3760060aa958653a) to see my interactive dashboard !**
+
+![pwc_customer retention analysis](https://github.com/jiaqiyu1/PortfolioProject/assets/84236678/31b6e4e7-1b84-4f1e-9005-8e62d5c05793)
 
