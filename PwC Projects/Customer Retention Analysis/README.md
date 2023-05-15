@@ -18,9 +18,7 @@ In addition, to better understand the data, the telecom Retention Manager has sc
 * We would like to know more about our customers: visualised clearly so that it’s self-explanatory for our management
 
 ### 💡 Objectives
-In order to find out the reason why there is a reduction in revenue there is a need to find out if customers are still interested in the service rendered, are the customers churning if they are then there is a need to find out why and take necessary steps to correct it.
-
-This is the essence of this analysis, I checked for the trend on how people are leaving our product for other products, why they are doing so to give recommendations on how to improve our customer retention.
+To identify reasons for a reduction in revenue by investigating customer churn, determining the reasons behind it, and recommending steps to improve customer retention.
 
 ### 💡 KPIs used for this analysis
 * Customers who left within the last month
