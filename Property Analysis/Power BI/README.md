@@ -32,10 +32,6 @@ With the help of Property Analysis Dashboard, you can make informed decisions ab
 
 ![image](https://github.com/jiaqiyu1/Property_Analysis/assets/84236678/6d04e3ab-eb97-4f2a-a2f6-32fdb165f177)
 
-### Datasets
-Download the raw datasets from [this link](https://drive.google.com/drive/u/0/folders/1IK9xtgUgYqVCaUeU3dyfTyIJFQsNTzOX)
-**Note:** ('Australia' datasets were used for this case) 
-
 
 ### Star Schema Dimensional Modelling
 1. Fact - Property Median Value
