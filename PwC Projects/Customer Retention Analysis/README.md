@@ -4,7 +4,7 @@
 
 ![pwc logo](https://github.com/jiaqiyu1/PortfolioProject/assets/84236678/dcf63fa1-f34a-42d2-8b67-2f06f548c004)
 
-# Customer Retention Analysis
+# Customer Retention 
 
 ### 💡 Business Requirements
 A few weeks after presenting your dashboard to the management, the Retention Manager from the telecom  was impressed by my work and asked if I can put together a dashboard about customer retention.
