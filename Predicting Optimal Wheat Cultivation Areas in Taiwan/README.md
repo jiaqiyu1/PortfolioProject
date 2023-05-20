@@ -7,6 +7,12 @@
 
 This study utilizes ArcGIS and R to predict the most suitable areas for wheat cultivation in Taiwan, providing valuable insights for agricultural planning and decision-making in the region.
 
+* Conducted requirement gathering to identify suitable planting areas for wheat.
+* Sourced climate data from the internal data warehouse.
+* Cleaned and processed climate data (temperature, humidity, light) using R.
+* Analysed and reported on data by overlaying climate data and soil categories on a spatial map with ArcGIS Pro to identify suitable planting areas.
+* Received great recognition from stakeholders, leading to potential opportunities for introducing wheat in the Taiwanese market.
+
 ### Tools:
 * ArcGIS Pro
 * R 
