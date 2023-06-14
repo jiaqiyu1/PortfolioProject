@@ -18,4 +18,7 @@ This study utilizes ArcGIS and R to predict the most suitable areas for wheat cu
 * R 
 * MS Excel 
 
+
+![image](https://github.com/jiaqiyu1/PortfolioProject/assets/84236678/dcc0fbbc-8d08-4dd7-8d95-95f02a8418c4)
+
 ![Picture1](https://github.com/jiaqiyu1/PortfolioProject/assets/84236678/5d6468f6-763d-4a11-9713-caa810c32530)
