@@ -21,4 +21,5 @@ This study utilizes ArcGIS and R to predict the most suitable areas for wheat cu
 
 ![image](https://github.com/jiaqiyu1/PortfolioProject/assets/84236678/dcc0fbbc-8d08-4dd7-8d95-95f02a8418c4)
 
-![Picture1](https://github.com/jiaqiyu1/PortfolioProject/assets/84236678/5d6468f6-763d-4a11-9713-caa810c32530)
+<img width="668" alt="Screenshot 2023-06-23 at 22 05 38" src="https://github.com/jiaqiyu1/PortfolioProject/assets/84236678/5110adff-e5ad-4679-9e0a-04344578a464">
+
